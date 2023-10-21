@@ -13,6 +13,6 @@ NCAEs can also be employed for anomaly detection, as they can identify data poin
 
 Noise-Contrastive Autoencoder combines the advantages of autoencoders and noise-contrastive estimation to create a model that excels at learning informative representations from noisy or high-dimensional data.
 
+![image](https://github.com/dasjaydeep2001/Noise-Contrastive-Autoencoder./assets/110038972/6fabc37e-f185-433f-b31f-b313379bbe96)
 ![image](https://github.com/dasjaydeep2001/Noise-Contrastive-Autoencoder./assets/110038972/7c53fbe9-7185-4a31-8231-035863a22302)
-
 ![image](https://github.com/dasjaydeep2001/Noise-Contrastive-Autoencoder./assets/110038972/33dd03a6-341e-49e3-b171-e368b0a1953e)
