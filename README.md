@@ -6,7 +6,7 @@ At its core, an autoencoder is a neural network architecture consisting of an en
 NCE is a technique used for training models in the presence of noise. It involves creating a binary classification task where the model must distinguish between true data samples and artificially generated noise samples. This helps the model learn to focus on the relevant features of the data.
 ## Noise Injection
 Noise is introduced into the input data during training to simulate real-world conditions. This noise can come in various forms, such as random perturbations or corruptions, and the model must learn to denoise the data effectively.
-##Dimensionality Reduction:
+## Dimensionality Reduction:
 NCAEs are often used for dimensionality reduction tasks, where the encoder learns to capture the most important features of the data in a lower-dimensional latent space. This can be valuable for reducing the computational cost of downstream tasks and for visualization purposes.
 ## Anomaly Detection
 NCAEs can also be employed for anomaly detection, as they can identify data points that deviate significantly from the learned representation. Anomalies are often associated with noise, and NCAEs are well-suited to this task due to their noise-contrastive nature.
