@@ -12,4 +12,7 @@ NCAEs are often used for dimensionality reduction tasks, where the encoder learn
 NCAEs can also be employed for anomaly detection, as they can identify data points that deviate significantly from the learned representation. Anomalies are often associated with noise, and NCAEs are well-suited to this task due to their noise-contrastive nature.
 
 Noise-Contrastive Autoencoder combines the advantages of autoencoders and noise-contrastive estimation to create a model that excels at learning informative representations from noisy or high-dimensional data.
+
+![image](https://github.com/dasjaydeep2001/Noise-Contrastive-Autoencoder./assets/110038972/7c53fbe9-7185-4a31-8231-035863a22302)
+
 ![image](https://github.com/dasjaydeep2001/Noise-Contrastive-Autoencoder./assets/110038972/33dd03a6-341e-49e3-b171-e368b0a1953e)
